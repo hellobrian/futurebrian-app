@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1482653e-3bc6-404a-bc13-b690fe438a5e/deploy-status)](https://app.netlify.com/sites/futurebrian-app/deploys)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
